@@ -12,7 +12,9 @@ They are intentionally incomplete and may change or be removed.
   - Reddit / deal feeds
 
 ## Next Questions
-
+- What signals matter more than sources?
+- How to normalize price without versioning?
+- Where Popsike fits vs live marketplaces
 - What already exists?
 - What’s easiest to build first?
 - What would *I* actually use?
