@@ -69,3 +69,25 @@ These are plain-English signals I already use (often subconsciously) when decidi
 - For common titles, condition matters more than pressing — a clean copy at a fair price beats a hyped version in rough shape.
 - If a recent retail sale (e.g., Amazon) cleared copies at ~$15 but secondary listings remain ~$30+, the market hasn’t adjusted yet — waiting or offering below ask is usually rational. This acknowledges that sales reset reality, explains why the market feels “wrong” afterward. and it gives guidance without pretending to be precise. This is not anti-seller — it’s anti-delusion.
 - When recent sold prices are materially lower than current Buy-It-Now listings, the market is in a standoff — sellers are anchored to peaks, buyers to history. In these cases, offers (or patience) outperform panic buying. This might mean that the buy-It-Now ≠ market truth, that timing/time matters, and that offers are a strategy, not an insult.
+
+## First Worked Verdict (Draft)
+
+### Album: Bone Thugs-N-Harmony — *E. 1999 Eternal* (VMP Repress)
+
+**Verdict:** Inflated / Hold or Offer Below Ask
+
+**Context:**
+- Out-of-print VMP repress (2023); original pressings exist but are not the primary market reference for most buyers.
+- Album is culturally significant, which amplifies emotional pricing.
+
+**Signals Observed:**
+- Discogs sold prices ranged ~$75–$120 over the past year.
+- Current Buy-It-Now listings cluster ~$175–$200 with limited movement.
+- eBay listings sit unsold at higher price points, some with Buy It Now
+- Private offers exist below public listings, suggesting softness beneath the surface.
+
+**Interpretation:**
+Sellers appear anchored to peak scarcity pricing, while buyers remain anchored to historical sales. This has created a pricing standoff where listings do not reflect clearing prices.
+
+**Guidance:**
+Unless ownership is time-sensitive, waiting or making offers materially below ask is rational. This is not a “deal” environment — it is a negotiation environment.
