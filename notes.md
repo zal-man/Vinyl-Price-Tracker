@@ -54,12 +54,18 @@ They are intentionally incomplete and may change or be removed.
 - This is about reducing decision fatigue for people who just want good records at sane prices.
 
 ## Signals I Trust (Early Thinking)
+
 These are plain-English signals I already use (often subconsciously) when deciding whether to buy a record now, wait, or pass.
-- If a record keeps showing up “on sale” across Amazon / Target / Walmart the list price is probably inflated.
+
+- If a record keeps showing up “on sale” across Amazon, Target, or Walmart, the list price is probably inflated.
 - If eBay listings sit unsold at the same price for weeks, that price isn’t real — it’s aspirational.
 - If Discogs has dozens of versions but most sales cluster in a tight price band, versioning matters less than sellers think.
-- If Reddit deal threads light up repeatedly for the same title, waiting usually pays off. Members love posting "hold" memes/GIFs in the comments.
+- If Reddit deal threads light up repeatedly for the same title, waiting usually pays off (members love posting “hold” memes/GIFs in the comments).
 - If a title is widely available new, panic buying is almost never justified.
 - If a record disappears briefly and then reappears at retail, scarcity was artificial.
 - If prices spike around an anniversary or reissue rumor, they often settle back down.
-- Some limited editions or special re-pressings (such as a uniquye color) will go up in value as a band also breaks into the mainstream (Slomosa, e.g.)
+- Some limited editions or special re-pressings (e.g., unique colors) *do* appreciate as a band breaks into the mainstream (Slomosa, for example).
+- If a record quietly restocks at multiple retailers after being “sold out,” initial scarcity was marketing-driven.
+- For common titles, condition matters more than pressing — a clean copy at a fair price beats a hyped version in rough shape.
+- If a recent retail sale (e.g., Amazon) cleared copies at ~$15 but secondary listings remain ~$30+, the market hasn’t adjusted yet — waiting or offering below ask is usually rational. This acknowledges that sales reset reality, explains why the market feels “wrong” afterward. and it gives guidance without pretending to be precise. This is not anti-seller — it’s anti-delusion.
+- When recent sold prices are materially lower than current Buy-It-Now listings, the market is in a standoff — sellers are anchored to peaks, buyers to history. In these cases, offers (or patience) outperform panic buying. This might mean that the buy-It-Now ≠ market truth, that timing/time matters, and that offers are a strategy, not an insult.
