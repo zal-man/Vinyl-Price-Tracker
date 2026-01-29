@@ -91,3 +91,33 @@ Sellers appear anchored to peak scarcity pricing, while buyers remain anchored t
 
 **Guidance:**
 Unless ownership is time-sensitive, waiting or making offers materially below ask is rational. This is not a “deal” environment — it is a negotiation environment.
+
+## Possible Verdict Systems (Draft 1.0)
+- Buy Now (Mispriced / Lagging)
+- Fair Price (Market Rate)
+- Inflated (Wait or Offer)
+- Artificial Scarcity (Ignore)
+- True Scarcity (Pay if you must)
+
+## Poassible Verdict System (Draft 1.1)
+
+- **Deal** — materially below recent clearing prices
+- **Fair** — aligned with market reality
+- **Inflated** — anchored to peaks or list prices, not sales
+- **Artificially Scarce** — supply manipulation or marketing-driven
+- **Grail** — truly out-of-print, emotional pricing applies
+
+## Verdict System (Draft 2.0)
+
+- **Unmissable Deal**  Mispriced relative to recent reality. Buy immediately.
+
+- **Good Deal**  Below typical market expectations. Worth buying if you want it.
+
+- **Market Price**  Fair, boring, stable. Buy if you’re ready; no urgency.
+
+- **Inflated**  Anchored to peaks, list prices, or hype. Wait or make offers.
+
+- **Negotiation Zone**  Listings don’t reflect clearing prices. Patience or offers outperform panic.
+
+- **True Scarcity**  Genuinely out-of-print or structurally limited. Grails fall into this category. Price reflects reality — decide emotionally, not rationally.
+
